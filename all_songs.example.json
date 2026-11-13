@@ -1,0 +1,40 @@
+{
+    "Demo_Song.wav": {
+        "file_path": "demo_songs/Demo_Song.wav",
+        "rating": 8.0,
+        "completion_stats": {
+            "beat": 100,
+            "lyrics": 90,
+            "hook": 100,
+            "verse_1": 80,
+            "verse_2": 70,
+            "vocals": 60,
+            "adlibs": 40,
+            "final_mix": 20
+        },
+        "completion_score": 70.0,
+        "genre": [
+            "Pop",
+            "Melodic Hip-Hop"
+        ],
+        "notes": [
+            "Improve vocal delivery in the chorus",
+            "Add more adlibs",
+            "Finish mixing the track"
+        ],
+        "tasks": [
+            {
+                "task": "Re-record chorus vocals",
+                "completed": false
+            },
+            {
+                "task": "Add adlibs to the second verse",
+                "completed": true
+            },
+            {
+                "task": "Complete the final mix",
+                "completed": false
+            }
+        ]
+    }
+}
